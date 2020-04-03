@@ -1,0 +1,7 @@
+{
+  "name": "com.stansassets.package-export",
+  "displayName": "Stans Assets - Package Export",
+  "version": "0.0.1",
+  "unity": "2019.3",
+  "description": "There is still need somtimes to export your package as .unitypackage and this is exacly what this tool for."
+}
