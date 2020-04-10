@@ -1,5 +1,5 @@
 # Package Export Utility
-There is still need sometimes to export your package as .unitypackage, and this is exactly what this tool for
+There is still need sometimes to export your package as `.unitypackage`, and this is exactly what this tool for
 
 ### Most common cases when you need this
 * You want to publish your package on the [Unity Asset Store](https://assetstore.unity.com/top-assets/top-paid?aid=1101l4aUM).
